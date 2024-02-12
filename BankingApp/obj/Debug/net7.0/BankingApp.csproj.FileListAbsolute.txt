@@ -1,0 +1,15 @@
+/workspaces/codespaces-blank/BankingApp/bin/Debug/net7.0/BankingApp
+/workspaces/codespaces-blank/BankingApp/bin/Debug/net7.0/BankingApp.deps.json
+/workspaces/codespaces-blank/BankingApp/bin/Debug/net7.0/BankingApp.runtimeconfig.json
+/workspaces/codespaces-blank/BankingApp/bin/Debug/net7.0/BankingApp.dll
+/workspaces/codespaces-blank/BankingApp/bin/Debug/net7.0/BankingApp.pdb
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/BankingApp.csproj.AssemblyReference.cache
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/BankingApp.AssemblyInfoInputs.cache
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/BankingApp.AssemblyInfo.cs
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/BankingApp.csproj.CoreCompileInputs.cache
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/BankingApp.dll
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/refint/BankingApp.dll
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/BankingApp.pdb
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/BankingApp.genruntimeconfig.cache
+/workspaces/codespaces-blank/BankingApp/obj/Debug/net7.0/ref/BankingApp.dll
